@@ -1,7 +1,4 @@
-import maths
+from statistics import kde
 
 import maths
-result = maths.add(2, 2)
-print(result)
-kdjfkdfkdfjdfjd dkfjdjkdjfjdkfjkdfkjdfjkdjfjdk jfdfjdkjfkdjkf
-dfkddhfkd
+
